@@ -5,3 +5,8 @@ This is the biggest heading level in markdown file
 This is the smallest heading level in markdown file
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```py
+for i in range(t):
+  i **= 2
+```
